@@ -237,7 +237,7 @@ Both mean and median were considered to avoid misleading conclusions.
 - **Seaborn** — statistical visualization
 - **Jupyter Notebook** — analysis workflow
 
-## 📁 Recommended Project Structure
+## 📁 Project Structure
 
 ```text
 car-dekho-market-analysis/
@@ -248,23 +248,10 @@ car-dekho-market-analysis/
 ├── notebooks/
 │   └── Car_Dekho_End_to_End_Analysis.ipynb
 │
-├── visualizations/
-│   ├── fuel_distribution.png
-│   ├── price_by_fuel.png
-│   ├── age_vs_price.png
-│   ├── present_vs_selling.png
-│   ├── kms_vs_price.png
-│   ├── category_comparison.png
-│   ├── age_band_price.png
-│   ├── resale_retention.png
-│   ├── correlation.png
-│   └── top_models.png
-│
 ├── presentation/
 │   └── Car_Dekho_End_to_End_Final_Presentation.pptx
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## ▶️ How to Run
